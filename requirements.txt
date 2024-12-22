@@ -1,0 +1,6 @@
+flask
+requests
+google-cloud-aiplatform
+protobuf==5.26.1
+
+
